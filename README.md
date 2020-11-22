@@ -26,6 +26,7 @@
 - Innovation Addicted <img src="https://github.com/lcerdeira/lcerdeira/assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40">
 <br />
 ## 🔧 Technologies & Tools
+
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![PYTHON](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PERL](https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white)
@@ -62,8 +63,6 @@
 ![HEROKU](https://img.shields.io/badge/heroku%20-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![AMAZON AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![GOOGLE CLOUD](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
-
-
 
 ## &#x1f4c8; GitHub Stats
 ![Louise Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&show_icons=true&theme=radical)
