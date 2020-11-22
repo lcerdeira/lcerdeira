@@ -1,5 +1,5 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 --><img
-<p align="center"><img src="https://github.com/lcerdeira/lcerdeira/assets/readme_header.png" alt="Header" width="80%"></p>
+![start](assets/readme_header.png) ![it runs](assets/readme_header.png)
 
 # Welcome to my profile
 
