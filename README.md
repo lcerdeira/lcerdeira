@@ -1,7 +1,7 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 --><img
 ![start](assets/readme_header.png)
 
-# Welcome to my profile ![start](assets/wave.gif)
+# Welcome to my profile ![start](assets/wave.gif width="40")
 
 My name is Louise Cerdeira and I'm a scientist, bioinformatician, software developer/DevOps engineer. I'm from Brazil, living in Australia(Melbourne) and currently working at Research Fellow at Monash University in the microbial genomics lab in the Infectious Disease department. You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/)
 
