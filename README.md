@@ -29,27 +29,25 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
+![Louise Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
 
-<a href="https://github.com/lcerdeira/lcerdeira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/lcerdeira/lcerdeira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcerdeira&show_icons=true&theme=radical" alt="Louise's GitHub Stats" />
-</a>
+![Louise Github Top languages Stats]("https://github-readme-stats.vercel.app/api/top-langs/?username=stephenajulu&show_icons=true&theme=radical)
 
 <a href="https://github.com/lcerdeira/TyphiNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=TyphiNET&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<bc>
 
 <a href="https://github.com/lcerdeira/Kleborate_viz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Kleborate_viz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/lcerdeira/TyphiNET">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=TyphiNET&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<bc>
+<a href="https://github.com/lcerdeira/webscrap_covid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=webscrap_covid&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/lcerdeira/TyphiNET">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=TyphiNET&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<bc>
+<a href="https://github.com/lcerdeira/Trycycler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Trycycler&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
