@@ -1,31 +1,30 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-# Hello there ! <img src="https://github.com/lcerdeira/lcerdeira/assets/readme_header.png">
+<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 --><img
+<p align="center"><img src="https://github.com/lcerdeira/lcerdeira/assets/readme_header.png" alt="Header" width="80%"></p>
 
-### My name is Louise Cerdeira and I'm a scientist, bioinformatician, software developer/DevOps engineer. I'm from Brazil, living in Australia(Melbourne) and currently working at Research Fellow at Monash University in the microbial genomics lab in the Infectious Disease department. You can find me on in a several platforms highlighted bellow
+# Welcome to my profile
 
-#### &#x270d; Blog, Writing, YouTube, Twitter, Vimeo, Linkedin, GitLab, GitHub, Reddit, BitBucket & podcast(SoundClound or Spotify - A porpcon called Wilson, funny history about bioinformatic and scientific lockdown life only in portuguese asap in english)
+My name is Louise Cerdeira and I'm a scientist, bioinformatician, software developer/DevOps engineer. I'm from Brazil, living in Australia(Melbourne) and currently working at Research Fellow at Monash University in the microbial genomics lab in the Infectious Disease department. You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/)
+
+#### &#x270d; Blog, Social Media & My podcast(SoundClound or Spotify - A porpcon called Wilson, histories about bioinformatic lockdown life)
 
 ![](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
 ![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
-![YOUTUBE](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
-![SPOTIFY](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)
-![SOUNDCLOUD](https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge)
-![GITHUB](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)
-![GITLAB](https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
-![BITBUCKET](https://img.shields.io/badge/bitbucket-%23330f63.svg?color=143864&style=for-the-badge&logo=bitbucket&logoColor=white)
-![REDDIT](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)
-![STACK OVERFLOW](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)
-![TWITTER](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)
-![LINKEDIN](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)
+![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
+![](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)
+![](https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/bitbucket-%23330f63.svg?color=143864&style=for-the-badge&logo=bitbucket&logoColor=white)
+![](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)
+![](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
+![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whit)
 ![VIMEO](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)
 
-<br />
+- Problem Lover <p ><img src="https://github.com/lcerdeira/lcerdeira/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"></p>
 
-- Problem Lover <img src="https://github.com/lcerdeira/lcerdeira/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40">
-
-- Innovation Addicted <img src="https://github.com/lcerdeira/lcerdeira/assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40">
-<br />
-## 🔧 Technologies & Tools
+- Innovation Addicted <p ><img src="https://github.com/lcerdeira/lcerdeira/assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"></p>
+## &#x1f4c8; Technologies & Tools
 
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![PYTHON](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
