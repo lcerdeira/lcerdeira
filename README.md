@@ -5,7 +5,11 @@
 
 My name is Louise Cerdeira and I'm a scientist, bioinformatician, software developer/DevOps engineer. I'm from Brazil, living in Australia(Melbourne) and currently working at Research Fellow at Monash University in the microbial genomics lab in the Infectious Disease department. You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/)
 
-&#x270d; Blog, Social Media & My podcast(SoundClound or Spotify - A porpcon called Wilson, histories about bioinformatic lockdown life)
+- Problem Lover <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
+
+- Innovation Addicted <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/>
+
+## <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/> Blog, Social Media & My podcast available in SoundClound or Spotify
 
 ![](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
 ![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
@@ -21,11 +25,10 @@ My name is Louise Cerdeira and I'm a scientist, bioinformatician, software devel
 ![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whit)
 ![VIMEO](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)
 
-- Problem Lover <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
-- Innovation Addicted <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/>
+- My Podcast - A popcorn called Wilson, listen to histories about my Bioinformatics  life in lockdown times
 
-## <img src="assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"/>; Technologies & Tools
+## <img src="assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"/> Technologies & Tools
 
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![PYTHON](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
