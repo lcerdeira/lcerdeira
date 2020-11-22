@@ -1,13 +1,13 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 # Hello there ! <img src="https://github.com/lcerdeira/lcerdeira/assets/readme_header.png">
 
-My name is Louise Cerdeira and I'm a scientist, bioinformatician, software developer/DevOps engineer. I'm from Brazil, living in Australia(Melbourne) and currently working at Research Fellow at Monash University in the microbial genomics lab in the Infectious Disease department. You can find me on in a several platforms highlighted bellow
+# My name is Louise Cerdeira and I'm a scientist, bioinformatician, software developer/DevOps engineer. I'm from Brazil, living in Australia(Melbourne) and currently working at Research Fellow at Monash University in the microbial genomics lab in the Infectious Disease department. You can find me on in a several platforms highlighted bellow
 
-## &#x270d; Blog, Writing, YouTube, Twitter, Vimeo, Linkedin, GitLab, GitHub, Reddit, BitBucket & podcast(SoundClound or Spotify - A porpcon called Wilson, funny history about bioinformatic and scientific lockdown life only in portuguese asap in english)
+### &#x270d; Blog, Writing, YouTube, Twitter, Vimeo, Linkedin, GitLab, GitHub, Reddit, BitBucket & podcast(SoundClound or Spotify - A porpcon called Wilson, funny history about bioinformatic and scientific lockdown life only in portuguese asap in english)
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at
-![DEV.TO](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)(https://dev.to/lcerdeira)
-![MEDIUM](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)(https://medium.com/@lcerdeira)
+(https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
+![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
 ![YOUTUBE](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
 ![SPOTIFY](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)
 ![SOUNDCLOUD](https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge)
