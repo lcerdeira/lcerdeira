@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/lcerdeira/lcerdeira/master/readme_header.png "Header")](https://lcerdeira.github.io/portfolio/)
+[![Header](https://raw.githubusercontent.com/lcerdeira/lcerdeira/readme_header.png "Header")](https://lcerdeira.github.io/portfolio/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/lcerdeira/lcerdeira/master/wave.gif" width="30px">
 
@@ -35,12 +35,12 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 
 <a href="https://github.com/lcerdeira/TyphiNET">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=TyphiNET&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/lcerdeira/Kleborate_viz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Kleborate_viz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
