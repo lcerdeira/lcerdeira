@@ -4,11 +4,11 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/lcerdeira/lcerdeira/master/wave.gif" width="30px">
 
-My name is Louise Cerdeira and I'm a scientist, bioinformatician, software developer/DevOps engineer. I'm from Brazil, living in Australia(Melbourne) and currently working at Research Fellow at Monash University in the microbial genomics lab in the Infectious Disease department. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Louise Cerdeira and I'm a scientist, bioinformatician, software developer/DevOps engineer. I'm from Brazil, living in Australia(Melbourne) and currently working at Research Fellow at Monash University in the microbial genomics lab in the Infectious Disease departmen. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x270d; Blog & Writing
+## &#x270d; Blog, Writing, YouTube, Podcast, 3D print life, My designs, My Poems & My Photography portfolio
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [lcerdeira.dev](https://lcerdeira.github.io/portfolio/) as well as on [Medium](https://medium.com/@louise.cerdeira) and [DEV.to](https://dev.to/louisecerdeira).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [lcerdeira.dev](https://lcerdeira.github.io/portfolio/) as well as on [Medium](https://medium.com/@lcerdeira) and [DEV.to](https://dev.to/lcerdeira).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -30,16 +30,16 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/lcerdeira/lcerdeira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcerdeira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/lcerdeira/lcerdeira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcerdeira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Louise's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/lcerdeira/TyphiNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/lcerdeira/Kleborate_viz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
