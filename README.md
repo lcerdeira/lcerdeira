@@ -5,7 +5,7 @@
 
 My name is Louise Cerdeira and I'm a scientist, bioinformatician, software developer/DevOps engineer. I'm from Brazil, living in Australia(Melbourne) and currently working at Research Fellow at Monash University in the microbial genomics lab in the Infectious Disease department. You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/)
 
-#### &#x270d; Blog, Social Media & My podcast(SoundClound or Spotify - A porpcon called Wilson, histories about bioinformatic lockdown life)
+&#x270d; Blog, Social Media & My podcast(SoundClound or Spotify - A porpcon called Wilson, histories about bioinformatic lockdown life)
 
 ![](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
 ![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
@@ -21,11 +21,11 @@ My name is Louise Cerdeira and I'm a scientist, bioinformatician, software devel
 ![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whit)
 ![VIMEO](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)
 
-- Problem Lover <p><img src="https://github.com/lcerdeira/lcerdeira/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"></p>
+- Problem Lover <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
-- Innovation Addicted <p><img src="https://github.com/lcerdeira/lcerdeira/assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"></p>
+- Innovation Addicted <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/>
 
-## &#x1f4c8; Technologies & Tools
+## <img src="assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"/>; Technologies & Tools
 
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![PYTHON](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -67,22 +67,6 @@ My name is Louise Cerdeira and I'm a scientist, bioinformatician, software devel
 ![Louise Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&show_icons=true&theme=radical)
-
-## <img src="https://github.com/lcerdeira/lcerdeira/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"> Favorite Repo
-
-[![MOBYDATA](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=MOBYDATA&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/MOBYDATA)[![Blue Lightning](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=blue-lightning-theme&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/blue-lightning-theme)
-
-## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"> Favorite Tools
-
-[![Bar Code Reader](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=BarCode_Reader_ReactNative&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/BarCode_Reader_ReactNative) [![PDF_Reader](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=PDF_Reader_JAVA&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/PDF_Reader_JAVA)
-
-## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_law_iconsArtboard_1_copy_3_2393031.svg" width="40"> Colab Repos
-
-[![Colab](https://github-readme-stats.vercel.app/api/pin/?username=marcosp-sousa&repo=BioTaxGeo&bg_color=30,e96443,904e95&text_color=fff&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/marcosp-sousa/BioTaxGeo)
-
-## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"> Full Stack System
-
-[![Api](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=gobarber-api&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/gobarber-api) [![web](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=gobarber-web&bg_color=30,e96443,904e95&text_color=fff&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/gobarber-web) [![mobile](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=gobarber-app&bg_color=30,e96443,904e95&text_color=fff&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/gobarber-app)
 
 <!-- links to social media icons -->
 
