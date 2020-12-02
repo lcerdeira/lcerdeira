@@ -23,7 +23,6 @@ My name is Louise Cerdeira and I'm a scientist, bioinformatician, software devel
 ![](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
 ![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whit)
-![VIMEO](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)
 
 
 - My Podcast - A popcorn called Wilson, listen to histories about my Bioinformatics  life in lockdown times
@@ -67,9 +66,16 @@ My name is Louise Cerdeira and I'm a scientist, bioinformatician, software devel
 ![GOOGLE CLOUD](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 
 ## &#x1f4c8; GitHub Stats
-![Louise Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&show_icons=true&theme=radical)
+![Louise Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira](https://github.com/lcerdeira/github-readme-stats&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&langs_count=8&show_icons=true&theme=radical](https://github.com/lcerdeira/github-readme-stats)
+
+<a href="https://github.com/lcerdeira/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/lcerdeira/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=OrganicS2" />
+</a>
 
 <!-- links to social media icons -->
 
@@ -92,7 +98,7 @@ My name is Louise Cerdeira and I'm a scientist, bioinformatician, software devel
 [3]: https://www.linkedin.com/in/louisecerdeira
 
 
-<!-- Resources -->
+<!-- Resources MIT Lincense -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
