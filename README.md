@@ -66,15 +66,21 @@ My name is Louise Cerdeira and I'm a scientist, bioinformatician, software devel
 ![GOOGLE CLOUD](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 
 ## &#x1f4c8; GitHub Stats
-![Louise Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&count_private=true&show_icons=true&theme=radical](https://github.com/lcerdeira/github-readme-stats)
+[![Louise Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&langs_count=8&show_icons=true&theme=radical](https://github.com/lcerdeira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&langs_count=8&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
 <a href="https://github.com/lcerdeira/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/lcerdeira/convoychat">
+<a href="https://github.com/lcerdeira/OrganicS2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=OrganicS2" />
+</a>
+<a href="https://github.com/kelwyres/Kleborate_viz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Kleborate_viz" />
+</a>
+<a href="https://github.com/zadyson/TyphiNET">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=TyphiNET" />
 </a>
 
 <!-- links to social media icons -->
