@@ -3,7 +3,7 @@
 
 # Welcome to my profile ! <img src="assets/wave.gif" width="30"/>
 
-My name is Louise Cerdeira, I'm a kind of swiss army knife (please don't bully me) 🦖. I'm computer scientist, bioinformatician, systems architect, UI/UX architect and DevOps engineer. I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost and use mask  (255.255.255.24). 
+My name is Louise Cerdeira, I'm a kind of swiss army knife (please don't bully me) 🦖. I'm computer scientist, bioinformatician, systems architect, UI/UX architect and DevOps engineer. I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask  (255.255.255.24). 
 You can find me on in a several platforms highlighted bellow [1][2][3]. See my website [here](https://lcerdeira.github.io/portfolio/)
 
 - Problem Lover <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
