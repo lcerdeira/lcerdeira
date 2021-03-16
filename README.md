@@ -3,7 +3,8 @@
 
 # Welcome to my profile ! <img src="assets/wave.gif" width="30"/>
 
-My name is Louise Cerdeira and I'm a scientist, bioinformatician, software developer/DevOps engineer. I'm from Brazil, living in Australia(Melbourne) and currently working at Research Fellow at Monash University in the microbial genomics lab in the Infectious Disease department. You can find me on in a several platforms highlighted bellow [1][2][3]. See my website [here](https://lcerdeira.github.io/portfolio/)
+My name is Louise Cerdeira, I'm a kind of swiss army knife (please don't bully me) 🦖. I'm computer scientist, bioinformatician, systems architect and DevOps engineer. I'm from Brazil, living in remote office due pandemic circustances, please stay in your localhost and use mask  (255.255.255.24). 
+You can find me on in a several platforms highlighted bellow [1][2][3]. See my website [here](https://lcerdeira.github.io/portfolio/)
 
 - Problem Lover <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
@@ -11,14 +12,11 @@ My name is Louise Cerdeira and I'm a scientist, bioinformatician, software devel
 
 ## <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/> Blog, Social Media & My podcast available in SoundClound or Spotify
 
-![](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
 ![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
 ![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
 ![](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)
 ![](https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
-![](https://img.shields.io/badge/bitbucket-%23330f63.svg?color=143864&style=for-the-badge&logo=bitbucket&logoColor=white)
 ![](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)
 ![](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
@@ -26,6 +24,8 @@ My name is Louise Cerdeira and I'm a scientist, bioinformatician, software devel
 
 
 - My Podcast - A popcorn called Wilson, listen to histories about my Bioinformatics  life in lockdown times
+- My Photograpy portfolio "Under the gaze of my balcony"
+- My Blog "naked and without covers"
 
 ## <img src="assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"/> Technologies & Tools
 
@@ -33,11 +33,7 @@ My name is Louise Cerdeira and I'm a scientist, bioinformatician, software devel
 ![PYTHON](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![PERL](https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![SHELL SCRIPT](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
@@ -68,7 +64,7 @@ My name is Louise Cerdeira and I'm a scientist, bioinformatician, software devel
 ## &#x1f4c8; GitHub Stats
 [![Louise Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&langs_count=8&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&langs_count=8&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
 <a href="https://github.com/lcerdeira/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=github-readme-stats" />
