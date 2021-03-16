@@ -1,29 +1,28 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 --><img
 ![start](assets/readme_header1.png)
 
-# Welcome to my profile ! <img src="assets/wave.gif" width="30"/>
+# ✨ Welcome to my profile ✨ <img src="assets/wave.gif" width="30"/>
 
 My name is Louise Cerdeira, I'm a kind of swiss army knife (please don't bully me) 🦖. I'm computer scientist, bioinformatician, systems architect, UI/UX architect and DevOps engineer.
 As a hobby, I love assembly a puzzle, re-annotate old plasmids (I know..), playing harmonica/guitar, photography, kite surfing and being an archer!
 I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask  (255.255.255.24). 
 You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/).
 
-- To solve the impossible thing (Yes, we can!) <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
+
 
 - Problem Lover <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
-- Innovation Addicted <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/>
+🚀 Innovation Addicted <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/>
 
 - Disruptive Innovation <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/>
 
-- Data-driven Approaches <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
+🚀 Data-driven Approaches <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
 - Renewable Technology <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
-
 - Big believer in the power of teams <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
-
+ 
 ## <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/> Blog, Social Media, Photography & My podcast available in SoundClound/Spotify
 
 ![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
