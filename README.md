@@ -20,7 +20,8 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 
 - Renewable Technology <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
-- Big believer in the power of teams
+
+- Big believer in the power of teams <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
 
 ## <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/> Blog, Social Media, Photography & My podcast available in SoundClound/Spotify
