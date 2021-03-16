@@ -8,7 +8,7 @@ As a hobby, I love assembly a puzzle, re-annotate old plasmids (I know..), playi
 I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask  (255.255.255.24). 
 You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/).
 
-- Solve impossible things
+- To solve the impossible thing (Yes, we can!) <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
 - Problem Lover <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
@@ -18,7 +18,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 
 - Data-driven Approaches <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
-- Renewable Tech <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
+- Renewable Technology <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
 - Big believer in the power of teams
 
@@ -69,7 +69,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 ![GOOGLE CLOUD](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 
 ## &#x1f4c8; GitHub Stats
-[![Louise Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
+[![Louise Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira=&counttrue&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&langs_count=8&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
