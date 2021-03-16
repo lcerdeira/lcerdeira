@@ -58,7 +58,9 @@ You can find me on in a several platforms highlighted bellow [1][2][3]. See my w
 ## &#x1f4c8; GitHub Stats
 [![Louise Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&langs_count=8&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
+-->
 
 <a href="https://github.com/lcerdeira/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=github-readme-stats" />
@@ -72,8 +74,6 @@ You can find me on in a several platforms highlighted bellow [1][2][3]. See my w
 <a href="https://github.com/zadyson/TyphiNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=TyphiNET" />
 </a>
-
-
 
 <!-- links to social media icons -->
 
