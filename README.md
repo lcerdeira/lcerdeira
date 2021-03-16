@@ -3,12 +3,25 @@
 
 # Welcome to my profile ! <img src="assets/wave.gif" width="30"/>
 
-My name is Louise Cerdeira, I'm a kind of swiss army knife (please don't bully me) 🦖. I'm computer scientist, bioinformatician, systems architect, UI/UX architect and DevOps engineer. I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask  (255.255.255.24). 
-You can find me on in a several platforms highlighted bellow [1][2][3]. See my website [here](https://lcerdeira.github.io/portfolio/)
+My name is Louise Cerdeira, I'm a kind of swiss army knife (please don't bully me) 🦖. I'm computer scientist, bioinformatician, systems architect, UI/UX architect and DevOps engineer.
+As a hobby, I love assembly a puzzle, re-annotate old plasmids (I know..), playing harmonica/guitar, photography, kite surfing and being an archer!
+I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask  (255.255.255.24). 
+You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/).
+
+- Solve impossible things
 
 - Problem Lover <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
 - Innovation Addicted <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/>
+
+- Disruptive Innovation <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/>
+
+- Data-driven Approaches <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
+
+- Renewable Tech <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
+
+- Big believer in the power of teams
+
 
 ## <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/> Blog, Social Media, Photography & My podcast available in SoundClound/Spotify
 
@@ -17,9 +30,9 @@ You can find me on in a several platforms highlighted bellow [1][2][3]. See my w
 ![](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)
 ![](https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge)
 
-- My Podcast - A popcorn called Wilson, listen to histories about my Bioinformatics  life in lockdown times
+- My Podcast "A popcorn called Wilson, listen to histories about my Bioinformatics  life in lockdown times"
 - My Photography portfolio "Under the gaze of my balcony"
-- My Blog "naked and without covers"
+- My Blog "Naked and without covers"
 
 ## <img src="assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"/> Technologies & Tools
 
