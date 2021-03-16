@@ -63,8 +63,8 @@ You can find me on in a several platforms highlighted bellow [1][2][3]. See my w
 <a href="https://github.com/lcerdeira/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/lcerdeira/OrganicS2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=OrganicS2" />
+<a href="https://github.com/lcerdeira/Spider">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Spider" />
 </a>
 <a href="https://github.com/kelwyres/Kleborate_viz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Kleborate_viz" />
@@ -72,6 +72,8 @@ You can find me on in a several platforms highlighted bellow [1][2][3]. See my w
 <a href="https://github.com/zadyson/TyphiNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=TyphiNET" />
 </a>
+
+
 
 <!-- links to social media icons -->
 
