@@ -84,11 +84,11 @@ show_icons=true
 <a href="https://github.com/lcerdeira/Spider">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Spider" />
 </a>
-<a href="https://github.com/kelwyres/Kleborate_viz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Kleborate_viz" />
-</a>
 <a href="https://github.com/zadyson/TyphiNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=TyphiNET" />
+</a>
+<a href="https://github.com/kelwyres/Kleborate_viz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Kleborate_viz" />
 </a>
 
 <!-- links to social media icons -->
