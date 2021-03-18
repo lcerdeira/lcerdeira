@@ -37,7 +37,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 
 🚀 Data-driven Approaches <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
-Learning lover
+🚀 Learning lover <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
 :earth_americas: Renewable Technology <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
@@ -103,8 +103,8 @@ show_icons=true
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=github-readme-stats" />
 </a>
 -->
-<a href="https://github.com/lcerdeira/Spider">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Spider" />
+<a href="https://github.com/lcerdeira/Spyder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Spyder" />
 </a>
 <a href="https://github.com/zadyson/TyphiNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=TyphiNET" />
