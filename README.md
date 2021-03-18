@@ -7,10 +7,13 @@
 
 # ✨ My name is Louise Cerdeira ✨
 
+**I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask (255.255.255.24)!
+
 Pescatarian Lyfestyle. I'm a kind of swiss army knife (please don't bully me) 🦖. 
-I'm workaholic scientist. Serious part --> computer scientist, bioinformatician, systems architect, UI/UX architect and DevOps engineer. From old school where chakra balance  made by my mom after told me off :sweat_smile:
+I'm workaholic scientist. Serious part --> PhD in Sciences (Bioinformatic), MSc. Bioinformatic, BSc. Computer Sciencescientist. Aditionally, Systems Architect, UI/UX Architect and DevOps Engineer. 
+From old school, where chakra balance made by my mom after told me off :sweat_smile:
 Hobbies, I love assembly a puzzle, re-annotate old plasmids (I know..), playing harmonica/guitar, photography, kite surfing and being an archer!
-I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask  (255.255.255.24). 
+
 You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/).
 
 
