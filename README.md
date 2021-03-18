@@ -5,14 +5,14 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
-My name is Louise Cerdeira, I'm a kind of swiss army knife (please don't bully me) 🦖. I'm computer scientist, bioinformatician, systems architect, UI/UX architect and DevOps engineer.
-As a hobby, I love assembly a puzzle, re-annotate old plasmids (I know..), playing harmonica/guitar, photography, kite surfing and being an archer!
-I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask  (255.255.255.24). 
-You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/).
+### My name is Louise Cerdeira, I'm a kind of swiss army knife (please don't bully me) 🦖. I'm computer scientist, bioinformatician, systems architect, UI/UX architect and DevOps engineer.
+### As a hobby, I love assembly a puzzle, re-annotate old plasmids (I know..), playing harmonica/guitar, photography, kite surfing and being an archer!
+### I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask  (255.255.255.24). 
+### You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/).
 
 
 
-- Problem Lover <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
+🚀 Problem Lover <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
 🚀 Innovation Addicted <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/>
 
@@ -22,7 +22,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 
 :earth_americas: Renewable Technology <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
-- Big believer in the power of teams <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
+:honey_pot: Big believer in the power of teams <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
 :tea: Tea Lover
 
@@ -76,6 +76,10 @@ I don't develop for the money, power, fame, or codebabes. I do it **For pleasure
 ![HEROKU](https://img.shields.io/badge/heroku%20-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![AMAZON AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![GOOGLE CLOUD](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## &#x1f4c8; GitHub Stats
 [![Louise's Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
