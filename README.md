@@ -69,10 +69,11 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 ![GOOGLE CLOUD](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 
 ## &#x1f4c8; GitHub Stats
-[![Louise's Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira=&count_private=true&theme=radical)]
+[![Louise's Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira=&count_private=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&langs_count=8&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
+show_icons=true
 -->
 
 <!--
