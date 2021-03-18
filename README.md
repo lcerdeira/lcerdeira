@@ -5,9 +5,9 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
-# ✨ My name is Louise Cerdeira ✨
+### ✨ My name is Louise Cerdeira ✨
 
-**I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask (255.255.255.24)!
+**I'm from Brazil**, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask (255.255.255.24)!
 
 Pescatarian Lyfestyle. I'm a kind of swiss army knife (please don't bully me) 🦖. 
 I'm workaholic scientist. Serious part --> PhD in Sciences (Bioinformatic), MSc. Bioinformatic, BSc. Computer Sciencescientist. Aditionally, Systems Architect, UI/UX Architect and DevOps Engineer. 
