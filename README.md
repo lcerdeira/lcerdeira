@@ -9,11 +9,12 @@
 
 **I'm from Brazil**, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask (255.255.255.24)!
 
-Pescatarian Lyfestyle!  
-I'm a kind of swiss army knife (please don't bully me) 🦖. 
-I'm workaholic scientist. 
+Pescatarian Lyfestyle!
 
-- PhD in Sciences (Bioinformatic)
+A kind of swiss army knife (please don't bully me) 🦖
+
+- Workaholic scientist
+- PhD in Sciences
 - MSc. Bioinformatic
 - BSc. Computer Sciences
 - Systems Architect
