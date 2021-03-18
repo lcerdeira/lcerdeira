@@ -9,13 +9,23 @@
 
 **I'm from Brazil**, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask (255.255.255.24)!
 
-Pescatarian Lyfestyle. I'm a kind of swiss army knife (please don't bully me) 🦖. 
-I'm workaholic scientist. Serious part --> PhD in Sciences (Bioinformatic), MSc. Bioinformatic, BSc. Computer Sciencescientist. Aditionally, Systems Architect, UI/UX Architect and DevOps Engineer. 
+Pescatarian Lyfestyle!  
+I'm a kind of swiss army knife (please don't bully me) 🦖. 
+I'm workaholic scientist. 
+
+- PhD in Sciences (Bioinformatic)
+- MSc. Bioinformatic
+- BSc. Computer Sciences
+- Systems Architect
+- UI/UX Architect
+- DevOps Engineer
+- Inventor in free time
+
 From old school, where chakra balance made by my mom after told me off :sweat_smile:
+
 Hobbies, I love assembly a puzzle, re-annotate old plasmids (I know..), playing harmonica/guitar, photography, kite surfing and being an archer!
 
 You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/).
-
 
 
 🚀 Problem Lover <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
@@ -32,9 +42,6 @@ Learning lover
 
 :honey_pot: Big believer in the power of teams <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
-:tea: Tea Lover
-
-<br/>
  
 ## <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/> Blog, Social Media, Photography & My podcast available in SoundClound/Spotify
 
