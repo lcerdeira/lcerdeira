@@ -1,15 +1,15 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 --><img
 ![start](assets/readme_header1.png)
 
-# ✨ Welcome to my profile ✨ <img src="assets/wave.gif" width="30"/>
+# ✨ Hell, folks!  Welcome to my profile ✨ <img src="assets/wave.gif" width="30"/>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
-### My name is Louise Cerdeira, I'm a kind of swiss army knife (please don't bully me) 🦖. I'm computer scientist, bioinformatician, systems architect, UI/UX architect and DevOps engineer.
-### As a hobby, I love assembly a puzzle, re-annotate old plasmids (I know..), playing harmonica/guitar, photography, kite surfing and being an archer!
-### I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask  (255.255.255.24). 
-### You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/).
-
+<h8> My name is Louise Cerdeira, I'm a kind of swiss army knife (please don't bully me) 🦖. I'm computer scientist, bioinformatician, systems architect, UI/UX architect and DevOps engineer.
+As a hobby, I love assembly a puzzle, re-annotate old plasmids (I know..), playing harmonica/guitar, photography, kite surfing and being an archer!
+I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask  (255.255.255.24). 
+You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/).
+</h8>
 
 
 🚀 Problem Lover <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
@@ -96,10 +96,12 @@ show_icons=true
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Kleborate_viz" />
 </a>
 
-<br />
+<br 
 
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)](https://forthebadge.com)
+
+<br/>
 
 I don't develop for the money, power, fame, or codebabes. I do it **For pleasure without pressure ✨.** It all started because of an obsession with two words: [![Build Status](https://travis-ci.org/BraveUX/for-the-badge.svg)](https://travis-ci.org/BraveUX/for-the-badge). 
 
