@@ -5,8 +5,10 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
+# ✨ My name is Louise Cerdeira ✨
 
-My name is **Louise Cerdeira**, I'm a kind of swiss army knife (please don't bully me) 🦖. I'm computer scientist, bioinformatician, systems architect, UI/UX architect and DevOps engineer. 
+Pescatarian Lyfestyle. I'm a kind of swiss army knife (please don't bully me) 🦖. 
+I'm workaholic scientist. Serious part --> computer scientist, bioinformatician, systems architect, UI/UX architect and DevOps engineer. From old school where chakra balance  made by my mom after told me off :sweat_smile:
 Hobbies, I love assembly a puzzle, re-annotate old plasmids (I know..), playing harmonica/guitar, photography, kite surfing and being an archer!
 I'm from Brazil, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask  (255.255.255.24). 
 You can find me on in a several platforms highlighted bellow. See my website [here](https://lcerdeira.github.io/portfolio/).
@@ -20,6 +22,8 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 :art: Disruptive Innovation <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/>
 
 🚀 Data-driven Approaches <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
+
+Learning lover
 
 :earth_americas: Renewable Technology <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
