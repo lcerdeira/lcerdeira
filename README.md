@@ -22,6 +22,14 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 
 - Big believer in the power of teams <img src="assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"/>
 
+- Tea Lover
+
+- Finally ---\_/
+ 
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)](https://forthebadge.com)
+
+I don't develop for the money, power, fame, or codebabes. I do it **For pleasure without pressure ✨.** It all started because of an obsession with two words: [![Build Status](https://travis-ci.org/BraveUX/for-the-badge.svg)](https://travis-ci.org/BraveUX/for-the-badge). 
  
 ## <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/> Blog, Social Media, Photography & My podcast available in SoundClound/Spotify
 
