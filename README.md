@@ -110,7 +110,7 @@ show_icons=true
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zadyson&repo=TyphiNET" />
 </a>
 <a href="https://github.com/kelwyres/Kleborate_viz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Kleborate_viz" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kelwyres&repo=Kleborate-viz" />
 </a>
 
 ## License
