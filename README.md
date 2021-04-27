@@ -93,16 +93,13 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 ## &#x1f4c8; GitHub Stats
 [![Louise's Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&langs_count=8&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 show_icons=true
--->
 
-<!--
 <a href="https://github.com/lcerdeira/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=github-readme-stats" />
 </a>
--->
+
 <a href="https://github.com/lcerdeira/Spyder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Spyder" />
 </a>
