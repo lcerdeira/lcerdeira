@@ -7,7 +7,7 @@
 
 ### ✨ My name is Louise Cerdeira ✨
 
-**I'm from Brazil**, living in remote office due pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask (255.255.255.24)!
+**I'm from Brazil**, living in Liverpool(UK) due the pandemic circumstances, please stay in your localhost (127.0.0.1) and use mask (255.255.255.24)!
 
 Pescatarian Lyfestyle!
 
