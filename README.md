@@ -95,8 +95,8 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&langs_count=8&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
-<a href="https://github.com/lcerdeira/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=github-readme-stats" />
+<a href="https://github.com/aidanfoo96/MINUUR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aidanfoo96&repo=MINUUR" />
 </a>
 
 <a href="https://github.com/lcerdeira/Spyder">
