@@ -95,6 +95,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&langs_count=8&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
+<!--
 <a href="https://github.com/zadyson/TyphiNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zadyson&repo=TyphiNET" />
 </a>
@@ -106,7 +107,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 </a>
 <a href="https://github.com/aidanfoo96/MINUUR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aidanfoo96&repo=MINUUR" />
-</a>
+</a> -->
 
 ## License
 
@@ -122,6 +123,7 @@ I don't develop for the money, power, fame, or codebabes. I do it **For pleasure
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
+
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
