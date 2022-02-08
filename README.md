@@ -49,11 +49,11 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 ![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
 ![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
 ![](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)
-![](https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge)
+<!-- ![](https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge) -->
 
-- My Podcast "A popcorn called Wilson, listen to histories about my Bioinformatics  life in lockdown times"
+<!-- - My Podcast "A popcorn called Wilson, listen to histories about my Bioinformatics  life in lockdown times"
 - My Photography portfolio "Under the gaze of my balcony"
-- My Blog "Naked and without covers"
+- My Blog "Naked and without covers" -->
 
 ## <img src="assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"/> Technologies & Tools
 
@@ -93,7 +93,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 ## &#x1f4c8; GitHub Stats
 [![Louise's Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&langs_count=8&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
 <!--
 <a href="https://github.com/zadyson/TyphiNET">
