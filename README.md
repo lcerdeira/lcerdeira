@@ -46,6 +46,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
  
 ## <img src="assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40"/> Blog, Social Media, Photography & My podcast available in SoundClound/Spotify (Waiting for new updates)
 
+<!--
 ![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
 ![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
 ![](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)
@@ -100,6 +101,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 [![Louise's Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&count_private=true&show_icons=true&theme=radical&langs_count=12&layout=compact)](https://github.com/lcerdeira/github-readme-stats)
+-->
 
 <!--
 <a href="https://github.com/zadyson/TyphiNET">
