@@ -1,7 +1,7 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 --><img
 <!--![start](assets/readme_header1.png) -->
 
-##✨ Hello, folks!  Welcome to my profile ✨ <img src="assets/wave.gif" width="30"/>
+# ✨ Hello, folks!  Welcome to my profile ✨ <img src="assets/wave.gif" width="30"/>
 
 <!--[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)-->
 
@@ -59,6 +59,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 
 <a href="https://www.credly.com/badges/af59680b-0cfc-4340-8413-760de73a7068/public_url">
   <img src="assets/web-development.png" width="150"/>
+ 
 </a>
 
 <!--## <img src="assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"/> Technologies & Tools-->
@@ -100,6 +101,8 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 [![Louise's Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&count_private=true&show_icons=true&theme=radical&langs_count=12&layout=compact)](https://github.com/lcerdeira/github-readme-stats)-->
+
+
 
 <a href="https://github.com/zadyson/TyphiNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zadyson&repo=TyphiNET" />
