@@ -61,7 +61,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
   <img src="assets/web-development.png" width="150"/>
 </a>
 
-## <img src="assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"/> Technologies & Tools-->
+<!--## <img src="assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"/> Technologies & Tools-->
 
 <!-- ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![PYTHON](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
