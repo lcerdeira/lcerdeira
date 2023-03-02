@@ -51,7 +51,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 <!-- ![](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge) -->
 
-<!-- - My Podcast "A popcorn called Wilson, listen to histories about my Bioinformatics  life in lockdown times"
+<!-- - My Podcast "A popcorn called Wilson, listen to histories about my Bioinformatics  life in lockdown times" -->
 <!-- - My Photography portfolio "Under the gaze of my balcony" -->
 <!-- - My Blog "Naked and without covers" -->
 
@@ -59,8 +59,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 
 <a href="https://www.credly.com/badges/af59680b-0cfc-4340-8413-760de73a7068/public_url">
   <img src="assets/web-development.png" width="150"/>
- 
-</a>
+ </a>
 
 <!--## <img src="assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"/> Technologies & Tools-->
 
@@ -97,13 +96,12 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 <!--![GOOGLE CLOUD](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)-->
 
 
-<!--## &#x1f4c8; GitHub Stats
-[![Louise's Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)-->
+<!--## &#x1f4c8; GitHub Stats-->
+<!--[![Louise's Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&count_private=true&show_icons=true&theme=radical&langs_count=12&layout=compact)](https://github.com/lcerdeira/github-readme-stats)-->
-
-
-
+<br/>
+<br/>
 <a href="https://github.com/zadyson/TyphiNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zadyson&repo=TyphiNET" />
 </a>
