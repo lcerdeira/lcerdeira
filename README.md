@@ -11,11 +11,11 @@ Pescatarian Lyfestyle!
 
 A kind of swiss army knife (please don't bully me) 🦖
 
-- Workaholic scientist
 - PhD in Sciences
 - MSc. Bioinformatic
 - BSc. Computer Sciences
-- Systems Architect
+- Bioinformatician
+- Software Engineer
 - UI/UX Architect
 - DevOps Engineer
 - Inventor in free time
