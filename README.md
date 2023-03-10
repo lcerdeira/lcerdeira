@@ -95,10 +95,9 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 
 
 <!--## &#x1f4c8; GitHub Stats-->
-<!--[![Louise's Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)-->
+[![Louise's Github Stats](https://github-readme-stats.vercel.app/api?username=lcerdeira&count_private=true&show_icons=true&theme=radical)](https://github.com/lcerdeira/github-readme-stats)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&count_private=true&show_icons=true&theme=radical&langs_count=12&layout=compact)](https://github.com/lcerdeira/github-readme-stats)-->
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&count_private=true&show_icons=true&theme=radical&langs_count=12&layout=compact)](https://github.com/lcerdeira/github-readme-stats)
 <a href="https://github.com/zadyson/TyphiNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zadyson&repo=TyphiNET" />
 </a>
