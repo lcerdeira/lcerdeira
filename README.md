@@ -43,12 +43,12 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 ## <img src="assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"/> Certified Professional
 
 
-<br/>
-<br/>
 <a href="https://www.credly.com/badges/af59680b-0cfc-4340-8413-760de73a7068/public_url">
   <img src="assets/web-development.png" width="150"/>
  </a>
 
+<br/>
+<br/>
 <a href="https://github.com/zadyson/TyphiNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zadyson&repo=TyphiNET" />
 </a>
