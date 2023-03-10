@@ -44,7 +44,7 @@ You can find me on in a several platforms highlighted bellow. See my website [he
 
 
 <br>
-
+</br>
 <a href="https://www.credly.com/badges/af59680b-0cfc-4340-8413-760de73a7068/public_url">
   <img src="assets/web-development.png" width="150"/>
  </a>
