@@ -1,3 +1,9 @@
+<a href="https://github.com/amrnet/amrnet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amrnet&repo=amrnet" />
+</a>
+<a href="https://github.com/AMRverse/AMRrulebrowser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMRverse&repo=AMRrulebrowser" />
+</a>
 <a href="https://github.com/zadyson/TyphiNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zadyson&repo=TyphiNET" />
 </a>
@@ -35,7 +41,7 @@ I don't develop for the money, power, fame, or codebabes. I do it **For pleasure
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/lcerdeira
+[1]: https://twitter.com/louise.cerdeira
 [2]: https://github.com/lcerdeira
 [3]: https://www.linkedin.com/in/louisecerdeira
 
