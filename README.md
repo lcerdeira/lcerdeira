@@ -1,4 +1,4 @@
-<a href="https://github.com/amrnet/amrnet">
+<!-- <a href="https://github.com/amrnet/amrnet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amrnet&repo=amrnet" />
 </a>
 <a href="https://github.com/AMRverse/AMRrulebrowser">
@@ -15,7 +15,7 @@
 </a>
 <a href="https://github.com/aidanfoo96/MINUUR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aidanfoo96&repo=MINUUR" />
-</a>
+</a> -->
 
 ## License
 
