@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Louise%20Cerdeira&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computational%20Biologist%20%7C%20Senior%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Louise%20Cerdeira&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computational%20Biologist%20%7C%20Senior%20Software%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Bioinformatics+%7C+Genomics+%7C+AMR+Surveillance;Full-Stack+%7C+Data+Pipelines+%7C+Cloud;Building+tools+that+matter+for+global+health)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Bioinformatics+%7C+Genomics+%7C+AMR+Surveillance;Full-Stack+Dev+%7C+Data+Pipelines+%7C+Cloud;Machine+Learning+%7C+Statistical+Modelling;Building+tools+that+matter+for+global+health)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,11 +16,15 @@
 
 ```python
 class LouiseCerdeira:
-    role        = ["Senior Software Engineer", "Computational Biologist"]
+    role        = ["Senior Software Engineer", "Computational Biologist", "Data Scientist"]
     focus       = ["Antimicrobial Resistance", "Genomic Epidemiology", "Global Health"]
-    languages   = ["Python", "R", "JavaScript", "Bash", "SQL"]
-    frameworks  = ["React", "Snakemake", "Nextflow", "Django", "FastAPI"]
-    cloud       = ["AWS", "GCP", "Docker", "Kubernetes"]
+    languages   = ["Python", "R", "Go", "Rust", "C++", "TypeScript", "JavaScript", "Bash", "SQL"]
+    frontend    = ["React", "Next.js", "D3.js", "R Shiny", "Tailwind CSS"]
+    backend     = ["FastAPI", "Django", "Node.js", "Express", "GraphQL", "REST"]
+    data        = ["NumPy", "Pandas", "scikit-learn", "TensorFlow", "PyTorch", "Jupyter"]
+    bio_tools   = ["Snakemake", "Nextflow", "Bioconda", "GATK", "BWA", "Samtools"]
+    databases   = ["PostgreSQL", "MongoDB", "Redis", "BigQuery"]
+    cloud       = ["AWS", "GCP", "Docker", "Kubernetes", "Terraform"]
     philosophy  = "For pleasure without pressure ✨"
 ```
 
@@ -32,13 +36,41 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 
 <div align="center">
 
-**Languages & Bioinformatics**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R%20Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Data Science & ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Bioinformatics & Workflow Engines**
 
@@ -46,18 +78,20 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 ![Nextflow](https://img.shields.io/badge/Nextflow-1E9E8A?style=for-the-badge&logo=nextflow&logoColor=white)
 ![Bioconda](https://img.shields.io/badge/Bioconda-43B02A?style=for-the-badge&logo=anaconda&logoColor=white)
 
-**Web & Data**
+**Databases**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Shiny](https://img.shields.io/badge/R%20Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-**Infrastructure**
+**Infrastructure & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
@@ -66,34 +100,68 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 
 ## 🔬 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/amrnet/amrnet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amrnet&repo=amrnet&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/AMRverse/AMRrulebrowser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMRverse&repo=AMRrulebrowser&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/zadyson/TyphiNET">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zadyson&repo=TyphiNET&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/aidanfoo96/MINUUR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aidanfoo96&repo=MINUUR&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/kelwyres/Kleborate-viz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kelwyres&repo=Kleborate-viz&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/lcerdeira/Spyder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lcerdeira&repo=Spyder&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amrnet/amrnet">🌐 AMRNet</a></h3>
+      <p>Global antimicrobial resistance surveillance platform — interactive genomic epidemiology dashboard tracking resistance trends across pathogens worldwide.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/amrnet/amrnet?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/forks/amrnet/amrnet?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/languages/top/amrnet/amrnet?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AMRverse/AMRrulebrowser">🔬 AMR Rule Browser</a></h3>
+      <p>Interactive browser for AMR interpretation rules — enables researchers to explore, filter and validate antimicrobial resistance genotype-phenotype rules.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/AMRverse/AMRrulebrowser?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/forks/AMRverse/AMRrulebrowser?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/languages/top/AMRverse/AMRrulebrowser?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zadyson/TyphiNET">🦠 TyphiNET</a></h3>
+      <p>Global genomic surveillance platform for <em>Salmonella</em> Typhi — tracks drug resistance and genotype distribution across endemic countries in real time.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/zadyson/TyphiNET?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/forks/zadyson/TyphiNET?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/languages/top/zadyson/TyphiNET?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aidanfoo96/MINUUR">🧫 MINUUR</a></h3>
+      <p>Metagenomic pipeline for investigating non-human reads — extracts and characterises microbial content from whole-genome sequencing data using Snakemake.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/aidanfoo96/MINUUR?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/forks/aidanfoo96/MINUUR?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/languages/top/aidanfoo96/MINUUR?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kelwyres/Kleborate-viz">📊 Kleborate-Viz</a></h3>
+      <p>Visualisation tool for Kleborate output — interactive dashboards for exploring <em>Klebsiella</em> genomic surveillance data including AMR and virulence profiles.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/kelwyres/Kleborate-viz?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/forks/kelwyres/Kleborate-viz?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/languages/top/kelwyres/Kleborate-viz?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lcerdeira/Spyder">🕷️ Spyder</a></h3>
+      <p>Bioinformatics tool for rapid identification and characterisation of genomic sequences — built for scalable analysis of large pathogen datasets.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/lcerdeira/Spyder?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/forks/lcerdeira/Spyder?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/languages/top/lcerdeira/Spyder?style=flat-square&color=6AD3F7&labelColor=0D1117" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -108,20 +176,22 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lcerdeira&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=lcerdeira&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
 ---
 
-## 🌍 Research Focus Areas
+## 🌍 Research & Engineering Focus
 
 ```
 🦠  Antimicrobial Resistance (AMR)     ████████████████████  Global surveillance tools
 🧫  Pathogen Genomics                  ██████████████████░░  Klebsiella, Salmonella, E. coli
 📊  Genomic Epidemiology               █████████████████░░░  Population-scale analyses
 🔧  Bioinformatics Pipelines           ████████████████████  End-to-end workflow engineering
-🌐  Data Visualisation                 ████████████████░░░░  Interactive genomic dashboards
+🤖  Machine Learning / AI              ███████████████░░░░░  Predictive genomic models
+🌐  Full-Stack Engineering             ████████████████████  React · Node · FastAPI · Go
+📈  Data Science & Visualisation       ████████████████░░░░  Interactive genomic dashboards
 ```
 
 ---
