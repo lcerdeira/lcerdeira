@@ -261,7 +261,68 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 
 ---
 
-## 📊 GitHub Stats & Achievements
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/Schweinepriester/github-profile-achievements#starstruck">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="80" title="Starstruck — repo with 16+ stars" />
+      </a>
+      <br/><sub><b>Starstruck</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/Schweinepriester/github-profile-achievements#quickdraw">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="80" title="Quickdraw — closed an issue or PR within 5 min of opening" />
+      </a>
+      <br/><sub><b>Quickdraw</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/Schweinepriester/github-profile-achievements#pair-extraordinaire">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire — co-authored merged PRs" />
+      </a>
+      <br/><sub><b>Pair Extraordinaire</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/Schweinepriester/github-profile-achievements#pull-shark">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="80" title="Pull Shark — opened PRs that got merged" />
+      </a>
+      <br/><sub><b>Pull Shark</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/Schweinepriester/github-profile-achievements#galaxy-brain">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="80" title="Galaxy Brain — answered discussions marked as correct" />
+      </a>
+      <br/><sub><b>Galaxy Brain</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/Schweinepriester/github-profile-achievements#yolo">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="80" title="YOLO — merged a PR without a review" />
+      </a>
+      <br/><sub><b>YOLO</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/Schweinepriester/github-profile-achievements#arctic-code-vault-contributor">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor" />
+      </a>
+      <br/><sub><b>Arctic Vault</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/Schweinepriester/github-profile-achievements#public-sponsor">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="80" title="Public Sponsor — sponsoring open source" />
+      </a>
+      <br/><sub><b>Public Sponsor</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
