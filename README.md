@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Bioinformatics+%7C+Genomics+%7C+AMR+Surveillance;Full-Stack+Dev+%7C+Data+Pipelines+%7C+Cloud;Machine+Learning+%7C+Statistical+Modelling;Building+tools+that+matter+for+global+health)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Bioinformatics+%7C+Genomics+%7C+AMR+Surveillance;Full-Stack+Dev+%7C+Data+Scientist+%7C+Cloud;Machine+Learning+%7C+Statistical+Modelling;Building+tools+that+matter+for+global+health)](https://git.io/typing-svg)
 
 </div>
 
@@ -73,6 +73,19 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+<h4>AI & Deep Learning — State of the Art</h4>
+
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+
 <h4>Bioinformatics & Workflow Engines</h4>
 
 ![Snakemake](https://img.shields.io/badge/Snakemake-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -96,6 +109,55 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
+
+---
+
+## 🤖 AI & Machine Learning
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Deep Learning Architectures</h4>
+      <ul>
+        <li>Transformers (BERT, GPT, ViT, T5)</li>
+        <li>Autoencoders &amp; VAEs for genomic latent spaces</li>
+        <li>Graph Neural Networks (GNNs) for protein interaction</li>
+        <li>Diffusion models for biological sequence generation</li>
+        <li>Convolutional &amp; Recurrent networks (CNN, LSTM, GRU)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔬 Biological AI Applications</h4>
+      <ul>
+        <li>Sequence classification &amp; AMR phenotype prediction</li>
+        <li>Multi-omics data integration &amp; dimensionality reduction</li>
+        <li>Foundation models for genomics (Nucleotide Transformer, ESM)</li>
+        <li>Anomaly detection in surveillance time-series</li>
+        <li>LLM pipelines for clinical text &amp; genomic reports</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ MLOps & Experiment Tracking</h4>
+      <ul>
+        <li>MLflow · Weights &amp; Biases · DVC</li>
+        <li>Model versioning, registry &amp; A/B evaluation</li>
+        <li>Distributed training with Ray &amp; PyTorch Lightning</li>
+        <li>Model serving: ONNX · TorchServe · FastAPI</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📐 Statistical & Classical ML</h4>
+      <ul>
+        <li>Bayesian inference (Stan, PyMC)</li>
+        <li>Gradient boosting: XGBoost · LightGBM · CatBoost</li>
+        <li>Survival analysis &amp; mixed-effects models</li>
+        <li>Dimensionality reduction: PCA · UMAP · t-SNE</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
