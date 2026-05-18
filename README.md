@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Louise%20Cerdeira&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computational%20Biologist%20%7C%20Senior%20Software%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Louise%20Cerdeira&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computational%20Biologist%20%7C%20Senior%20SWE%20%7C%20Data%20Scientist%20%7C%20Professor%20%7C%20Consultant&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Bioinformatics+%7C+Genomics+%7C+AMR+Surveillance;Full-Stack+Dev+%7C+Data+Scientist+%7C+Cloud;Machine+Learning+%7C+Statistical+Modelling;Building+tools+that+matter+for+global+health)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=750&lines=Bioinformatics+%7C+Genomics+%7C+AMR+Surveillance;Full-Stack+Dev+%7C+Data+Scientist+%7C+Cloud;Machine+Learning+%7C+AI+%7C+Statistical+Modelling;Professor+%7C+Consultant+%7C+PMP+Certified;Building+tools+that+matter+for+global+health)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,19 +16,21 @@
 
 ```python
 class LouiseCerdeira:
-    role        = ["Senior Software Engineer", "Computational Biologist", "Data Scientist"]
+    role        = ["Senior Software Engineer", "Computational Biologist",
+                   "Data Scientist", "Professor", "Consultant"]
+    certified   = ["PMP — Project Management Professional"]
     focus       = ["Antimicrobial Resistance", "Genomic Epidemiology", "Global Health"]
     languages   = ["Python", "R", "Go", "Rust", "C++", "TypeScript", "JavaScript", "Bash", "SQL"]
     frontend    = ["React", "Next.js", "D3.js", "R Shiny", "Tailwind CSS"]
     backend     = ["FastAPI", "Django", "Node.js", "Express", "GraphQL", "REST"]
-    data        = ["NumPy", "Pandas", "scikit-learn", "TensorFlow", "PyTorch", "Jupyter"]
+    data        = ["NumPy", "Pandas", "Polars", "DuckDB", "scikit-learn", "PyTorch"]
     bio_tools   = ["Snakemake", "Nextflow", "Bioconda", "GATK", "BWA", "Samtools"]
-    databases   = ["PostgreSQL", "MongoDB", "Redis", "BigQuery"]
     cloud       = ["AWS", "GCP", "Docker", "Kubernetes", "Terraform"]
+    consulting  = ["Strategic Planning", "Stakeholder Management", "Agile", "Scrum"]
     philosophy  = "For pleasure without pressure ✨"
 ```
 
-I build **bioinformatics tools and data platforms** at the intersection of genomics, epidemiology, and software engineering — with a focus on **antimicrobial resistance surveillance** and **pathogen genomics** for global health impact.
+I build **bioinformatics tools and data platforms** at the intersection of genomics, epidemiology, and software engineering — with a focus on **antimicrobial resistance surveillance** and **pathogen genomics** for global health impact. As a **professor and consultant**, I bridge cutting-edge research with production-grade engineering and strategic decision-making.
 
 ---
 
@@ -47,6 +49,7 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 <h4>Frontend</h4>
 
@@ -63,11 +66,13 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 <h4>Data Science & ML</h4>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -75,16 +80,29 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 
 <h4>AI & Deep Learning — State of the Art</h4>
 
-![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+
+<h4>🔥 Hype Stack — Trending Now</h4>
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Arrow](https://img.shields.io/badge/Apache%20Arrow-E25A1C?style=for-the-badge&logo=apache&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-4FBDBA?style=for-the-badge&logo=weaviate&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 
 <h4>Bioinformatics & Workflow Engines</h4>
 
@@ -108,6 +126,17 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+<h4>Project Management & Academia</h4>
+
+![PMP](https://img.shields.io/badge/PMP%20Certified-DD1B16?style=for-the-badge&logo=pmi&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 </div>
 
 ---
@@ -119,11 +148,12 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
     <td width="50%" valign="top">
       <h4>🧠 Deep Learning Architectures</h4>
       <ul>
-        <li>Transformers (BERT, GPT, ViT, T5)</li>
+        <li>Transformers — BERT, GPT, ViT, T5, LLaMA, Mistral</li>
         <li>Autoencoders &amp; VAEs for genomic latent spaces</li>
         <li>Graph Neural Networks (GNNs) for protein interaction</li>
         <li>Diffusion models for biological sequence generation</li>
-        <li>Convolutional &amp; Recurrent networks (CNN, LSTM, GRU)</li>
+        <li>CNN, LSTM, GRU — sequence &amp; signal modelling</li>
+        <li>Mixture of Experts (MoE) architectures</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -131,9 +161,10 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
       <ul>
         <li>Sequence classification &amp; AMR phenotype prediction</li>
         <li>Multi-omics data integration &amp; dimensionality reduction</li>
-        <li>Foundation models for genomics (Nucleotide Transformer, ESM)</li>
-        <li>Anomaly detection in surveillance time-series</li>
-        <li>LLM pipelines for clinical text &amp; genomic reports</li>
+        <li>Genomic foundation models — Nucleotide Transformer, ESM2</li>
+        <li>AlphaFold2 / protein structure prediction pipelines</li>
+        <li>Anomaly detection in epidemiological time-series</li>
+        <li>LLM pipelines for clinical text &amp; genomic report generation</li>
       </ul>
     </td>
   </tr>
@@ -143,17 +174,19 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
       <ul>
         <li>MLflow · Weights &amp; Biases · DVC</li>
         <li>Model versioning, registry &amp; A/B evaluation</li>
-        <li>Distributed training with Ray &amp; PyTorch Lightning</li>
-        <li>Model serving: ONNX · TorchServe · FastAPI</li>
+        <li>Distributed training — Ray · PyTorch Lightning · DeepSpeed</li>
+        <li>Model serving — ONNX · TorchServe · FastAPI · Triton</li>
+        <li>Vector databases — Pinecone · ChromaDB · Weaviate</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>📐 Statistical & Classical ML</h4>
       <ul>
-        <li>Bayesian inference (Stan, PyMC)</li>
-        <li>Gradient boosting: XGBoost · LightGBM · CatBoost</li>
+        <li>Bayesian inference — Stan, PyMC</li>
+        <li>Gradient boosting — XGBoost · LightGBM · CatBoost</li>
         <li>Survival analysis &amp; mixed-effects models</li>
-        <li>Dimensionality reduction: PCA · UMAP · t-SNE</li>
+        <li>Dimensionality reduction — PCA · UMAP · t-SNE · PHATE</li>
+        <li>Causal inference &amp; counterfactual modelling</li>
       </ul>
     </td>
   </tr>
@@ -228,18 +261,27 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Achievements
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcerdeira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcerdeira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=lcerdeira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lcerdeira&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=lcerdeira&theme=tokyonight&hide_border=true&background=0D1117&fire=6AD3F7&ring=6AD3F7&currStreakLabel=6AD3F7" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lcerdeira&theme=tokyo-night&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&hide_border=true" width="100%" />
 
 </div>
 
@@ -252,9 +294,10 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 🧫  Pathogen Genomics                  ██████████████████░░  Klebsiella, Salmonella, E. coli
 📊  Genomic Epidemiology               █████████████████░░░  Population-scale analyses
 🔧  Bioinformatics Pipelines           ████████████████████  End-to-end workflow engineering
-🤖  Machine Learning / AI              ███████████████░░░░░  Predictive genomic models
+🤖  Machine Learning / AI              ████████████████████  Foundation models · MLOps
 🌐  Full-Stack Engineering             ████████████████████  React · Node · FastAPI · Go
 📈  Data Science & Visualisation       ████████████████░░░░  Interactive genomic dashboards
+🎓  Teaching & Consulting              ███████████████░░░░░  PMP · Agile · Strategic Advisory
 ```
 
 ---
