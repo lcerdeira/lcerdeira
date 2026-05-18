@@ -12,7 +12,7 @@
 
 ---
 
-## 🧬 About Me
+## About Me
 
 ```python
 class LouiseCerdeira:
@@ -34,7 +34,7 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -91,7 +91,7 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 ![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
 
-<h4>🔥 Hype Stack — Trending Now</h4>
+<h4> Hype Stack </h4>
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
@@ -141,12 +141,12 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 
 ---
 
-## 🤖 AI & Machine Learning
+##  AI & Machine Learning
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 Deep Learning Architectures</h4>
+      <h4> Deep Learning Architectures</h4>
       <ul>
         <li>Transformers — BERT, GPT, ViT, T5, LLaMA, Mistral</li>
         <li>Autoencoders &amp; VAEs for genomic latent spaces</li>
@@ -157,7 +157,7 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🔬 Biological AI Applications</h4>
+      <h4> Biological AI Applications</h4>
       <ul>
         <li>Sequence classification &amp; AMR phenotype prediction</li>
         <li>Multi-omics data integration &amp; dimensionality reduction</li>
@@ -170,7 +170,7 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚙️ MLOps & Experiment Tracking</h4>
+      <h4> MLOps & Experiment Tracking</h4>
       <ul>
         <li>MLflow · Weights &amp; Biases · DVC</li>
         <li>Model versioning, registry &amp; A/B evaluation</li>
@@ -180,7 +180,7 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>📐 Statistical & Classical ML</h4>
+      <h4> Statistical & Classical ML</h4>
       <ul>
         <li>Bayesian inference — Stan, PyMC</li>
         <li>Gradient boosting — XGBoost · LightGBM · CatBoost</li>
@@ -194,7 +194,7 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 
 ---
 
-## 🔬 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
@@ -261,7 +261,7 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <div align="center">
 
@@ -322,7 +322,7 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -348,7 +348,7 @@ I build **bioinformatics tools and data platforms** at the intersection of genom
 
 ---
 
-## 🌍 Research & Engineering Focus
+##  Research & Engineering Focus
 
 ```
 🦠  Antimicrobial Resistance (AMR)     ████████████████████  Global surveillance tools
