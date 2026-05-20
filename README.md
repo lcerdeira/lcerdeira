@@ -1,3 +1,5 @@
+![estrelas](./assets/stars-animation.svg)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Louise%20Cerdeira&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computational%20Biologist%20%7C%20Senior%20SWE%20%7C%20Data%20Scientist%20%7C%20Professor%20%7C%20Consultant&descAlignY=55&descSize=16" width="100%"/>
