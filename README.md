@@ -1,8 +1,9 @@
 # Louise Cerdeira
 
-**Computational biologist and lead research software engineer** at the London School of
-Hygiene & Tropical Medicine. I build open platforms that turn pathogen genome data into
-antimicrobial resistance surveillance that public health bodies can act on.
+**Research Software Engineer and computational biologist** in the Department of Infection
+Biology at the London School of Hygiene & Tropical Medicine, where I lead code development
+for AMRnet. I build open platforms that turn pathogen genome data into antimicrobial
+resistance surveillance that public health bodies can act on.
 
 I trained as a computer scientist before becoming a genomicist — a BSc in Computer Science,
 an MSc in Genetics and Molecular Biology, then a PhD in microbial genomics at the University
@@ -30,7 +31,8 @@ Research*.
 
 **[TyphiNET](https://www.typhi.net)** — Genomic surveillance dashboard for *Salmonella*
 Typhi, translating typhoid genomics into evidence public health teams can use without
-needing bioinformatics. Co-coordinated with Zoe Dyson and Kat Holt.
+needing bioinformatics. I developed the software; co-coordinated with Zoe Dyson and Kat
+Holt. Paper in *Genome Medicine* (2025).
 
 **[OneBR](http://onehealthbr.com)** — Brazil's first One Health resistance-integrated
 genomic database, spanning human, animal and environmental sources. Co-creator; led the
@@ -48,8 +50,9 @@ bioinformatics infrastructure and web architecture.
 | **[Spyder](https://github.com/lcerdeira/Spyder)** | Automated data acquisition from Pathogen Watch via REST API. |
 | **[BraSeqTB](https://github.com/lcerdeira/BraSeqTB)** | Brazilian pipeline for AMR detection in *M. tuberculosis*. |
 
-I also contribute to **Kleborate**, the community-standard genotyping framework for
-*Klebsiella pneumoniae*, and to **Trycycler** for long-read bacterial genome assembly.
+I am one of the five code developers of **Kleborate**, the community-standard genotyping
+framework for *Klebsiella pneumoniae*, and a co-author on **Trycycler**, for long-read
+bacterial genome assembly.
 
 ---
 
